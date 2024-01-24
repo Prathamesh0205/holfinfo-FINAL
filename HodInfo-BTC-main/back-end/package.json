@@ -1,0 +1,26 @@
+{
+  "name": "holdinfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.2",
+    "express": "^4.18.2",
+    "express-async-errors": "^3.1.1",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-rate-limit": "^7.1.5",
+    "helmet": "^7.1.0",
+    "http-status-codes": "^2.3.0",
+    "mongoose": "^8.1.0",
+    "morgan": "^1.10.0",
+    "node": "^21.2.0",
+    "nodemon": "^3.0.3",
+    "validator": "^13.11.0",
+    "xss-clean": "^0.1.4"
+  }
+}
